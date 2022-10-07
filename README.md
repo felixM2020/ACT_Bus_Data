@@ -2,4 +2,4 @@
 Data analysis project using data.gov's ACT (Australian Capital Territory) School Data.
 
 ## Credits
-All data 
+All data comes from data.gov.au
